@@ -1,0 +1,57 @@
+body {
+  background-color:aliceblue;
+}
+
+h1{
+font-style: normal;
+}
+
+p{   
+background-color: white; 
+}
+
+div.kasse{
+border: 5px solid black;
+width: 1150px;
+padding: 20px;
+margin: 10px;
+border-style: solid;
+background-color: white;
+}
+
+
+
+/* Design af topbar/header */
+.header {
+  background-color: aliceblue;
+  padding: 20px;
+  text-align: center;
+}
+
+
+/* Design af navigationsbar */
+.topnav {
+  overflow: hidden;
+  background-color: black;
+}
+
+/* Design af navigationsbars links */
+.topnav a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 8px 12px;
+  text-decoration: none;
+}
+
+/* Design af links trykfunktion/hover */
+.topnav a:hover {
+  background-color: white;
+  color: black;
+}
+
+img {
+float: center;
+}
+
